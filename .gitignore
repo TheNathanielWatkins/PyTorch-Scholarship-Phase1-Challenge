@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+**__pycache__/
+**.pth
+**.net
+**pt
+
+# Data Files
+**flower_data/
